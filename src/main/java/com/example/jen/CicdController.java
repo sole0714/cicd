@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CicdController {
     @GetMapping("/test")
     public String test() {
-        return "v1";
+        return "v2";
     }
     // test
 }
