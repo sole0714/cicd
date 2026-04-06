@@ -12,4 +12,5 @@ public class CicdController {
     public String test() {
         return "v1";
     }
+    // test
 }
